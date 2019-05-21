@@ -1,0 +1,5 @@
+0.0.0.0:80 {
+  rewrite /podlove-web-player/podlove-web-player/libs/podlove-font/css/podlovefont.css /podlove-web-player/podlove-web-player/libs/podlove-font/css/podlove-font.css
+  log stdout
+  root /srv
+}
